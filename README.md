@@ -1,6 +1,6 @@
 # Enterprise Multi-Fact Data Model (Retail & Operations)
 
-![Data Model Schema](docs/data_model_diagram.png)
+![Data Model Schema](docs/final_data_model.png)
 
 ## Executive Summary
 This project demonstrates an **Enterprise-Grade Data Model** built using **Power BI**, following the **Constellation (Multi-Fact) Schema** architecture. The model integrates disparate operational data sources (Sales, Inventory, Marketing Campaigns, Order Processing, and Targets) into a unified analytical data warehouse framework.
