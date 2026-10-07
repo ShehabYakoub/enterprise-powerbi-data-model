@@ -10,7 +10,7 @@ This project demonstrates an **Enterprise-Grade Data Model** built using **Power
 ## Data Architecture & Schema Design
 The data model transitions from raw, unnormalized transactional tables into a consolidated **Multi-Fact Star Schema** with conformed dimensions.
 
-### 📊 Model Components:
+### Model Components:
 * **Architecture Style:** Constellation (Multi-Fact) Schema
 * **Fact Tables (6):** `fact_sales`, `fact_inventory`, `fact_campaign_log`, `fact_promotion_coverage`, `fact_order_process`, `fact_sales_target`
 * **Dimension Tables (5):** `dim_product`, `dim_customer`, `dim_geo`, `dim_campaign`, `dim_order_flags`
@@ -39,7 +39,7 @@ The data model transitions from raw, unnormalized transactional tables into a co
 
 ---
 
-## 📐 Data Dictionary
+## Data Dictionary
 For full column-level descriptions, data types, and primary/foreign key mappings, refer to [docs/data_dictionary.md](docs/data_dictionary.md).
 
 ---
