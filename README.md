@@ -40,7 +40,7 @@ The data model transitions from raw, unnormalized transactional tables into a co
 ---
 
 ## Data Dictionary
-For full column-level descriptions, data types, and primary/foreign key mappings, refer to [docs/data_dictionary.md](docs/data_dictionary.md).
+For full column-level descriptions, data types, and primary/foreign key mappings, refer to [docs/data_dictionary.md](data/data_dictionary.md).
 
 ---
 
